@@ -38,5 +38,29 @@ namespace aula4_Ex2
         {
 
         }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+        }
+
+        private void radioButton6_CheckedChanged(object sender, EventArgs e)
+        {
+       
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+ 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            radioButton1.Checked = false;
+            radioButton2.Checked = false;
+            radioButton3.Checked = false;
+            radioButton4.Checked = false;
+            radioButton5.Checked = false;
+            radioButton6.Checked = false;
+        }
     }
 }

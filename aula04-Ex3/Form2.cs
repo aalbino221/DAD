@@ -22,5 +22,10 @@ namespace aula04_Ex3
             colorDialog1.ShowDialog();
             BackColor = colorDialog1.Color;
         }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

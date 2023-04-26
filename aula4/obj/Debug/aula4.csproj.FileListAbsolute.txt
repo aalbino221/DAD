@@ -8,3 +8,13 @@ C:\Users\aluno\source\repos\aula4\obj\Debug\aula4.csproj.GenerateResource.cache
 C:\Users\aluno\source\repos\aula4\obj\Debug\aula4.csproj.CoreCompileInputs.cache
 C:\Users\aluno\source\repos\aula4\obj\Debug\aula4.exe
 C:\Users\aluno\source\repos\aula4\obj\Debug\aula4.pdb
+C:\Users\aluno\DAD\aula4\bin\Debug\aula4.exe.config
+C:\Users\aluno\DAD\aula4\bin\Debug\aula4.exe
+C:\Users\aluno\DAD\aula4\bin\Debug\aula4.pdb
+C:\Users\aluno\DAD\aula4\obj\Debug\aula4.csproj.AssemblyReference.cache
+C:\Users\aluno\DAD\aula4\obj\Debug\aula4.Form1.resources
+C:\Users\aluno\DAD\aula4\obj\Debug\aula4.Properties.Resources.resources
+C:\Users\aluno\DAD\aula4\obj\Debug\aula4.csproj.GenerateResource.cache
+C:\Users\aluno\DAD\aula4\obj\Debug\aula4.csproj.CoreCompileInputs.cache
+C:\Users\aluno\DAD\aula4\obj\Debug\aula4.exe
+C:\Users\aluno\DAD\aula4\obj\Debug\aula4.pdb

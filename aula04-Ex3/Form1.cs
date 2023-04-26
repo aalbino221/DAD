@@ -19,15 +19,20 @@ namespace aula04_Ex3
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 form2 = new Form2();
-            form2.Show();
+            if (Application.OpenForms["Form2"] == null){
+                Form2 form2 = new Form2();
+                form2.Show();
+            }
         }
 
         private void novoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Form2 form2 = new Form2();
-            form2.BackColor = Color.YellowGreen;
-            form2.Show();
+            if (Application.OpenForms["Form2"] == null)
+            {
+                Form2 form2 = new Form2();
+                form2.BackColor = Color.YellowGreen;
+                form2.Show();
+            }
         }
     }
 }

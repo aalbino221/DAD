@@ -48,5 +48,13 @@ namespace aula4
             text = text.Remove(text.Length - 2);
             label4.Text = text;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            checkBox1.Checked = false;
+            checkBox2.Checked = false;
+            checkBox3.Checked = false;
+            checkBox4.Checked = false;
+        }
     }
 }

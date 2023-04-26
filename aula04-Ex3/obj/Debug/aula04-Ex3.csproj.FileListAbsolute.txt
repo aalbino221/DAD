@@ -9,3 +9,14 @@ C:\Users\aluno\source\repos\aula04-Ex3\obj\Debug\aula04-Ex3.exe
 C:\Users\aluno\source\repos\aula04-Ex3\obj\Debug\aula04-Ex3.pdb
 C:\Users\aluno\source\repos\aula04-Ex3\obj\Debug\aula04-Ex3.csproj.AssemblyReference.cache
 C:\Users\aluno\source\repos\aula04-Ex3\obj\Debug\aula04_Ex3.Form2.resources
+C:\Users\aluno\DAD\aula04-Ex3\bin\Debug\aula04-Ex3.exe.config
+C:\Users\aluno\DAD\aula04-Ex3\bin\Debug\aula04-Ex3.exe
+C:\Users\aluno\DAD\aula04-Ex3\bin\Debug\aula04-Ex3.pdb
+C:\Users\aluno\DAD\aula04-Ex3\obj\Debug\aula04-Ex3.csproj.AssemblyReference.cache
+C:\Users\aluno\DAD\aula04-Ex3\obj\Debug\aula04_Ex3.Form1.resources
+C:\Users\aluno\DAD\aula04-Ex3\obj\Debug\aula04_Ex3.Form2.resources
+C:\Users\aluno\DAD\aula04-Ex3\obj\Debug\aula04_Ex3.Properties.Resources.resources
+C:\Users\aluno\DAD\aula04-Ex3\obj\Debug\aula04-Ex3.csproj.GenerateResource.cache
+C:\Users\aluno\DAD\aula04-Ex3\obj\Debug\aula04-Ex3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\DAD\aula04-Ex3\obj\Debug\aula04-Ex3.exe
+C:\Users\aluno\DAD\aula04-Ex3\obj\Debug\aula04-Ex3.pdb

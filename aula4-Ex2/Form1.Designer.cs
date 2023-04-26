@@ -39,6 +39,7 @@ namespace aula4_Ex2
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.button2 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -53,6 +54,7 @@ namespace aula4_Ex2
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Desenvolvimento de SIstemas";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.Click += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // radioButton2
             // 
@@ -64,6 +66,8 @@ namespace aula4_Ex2
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Edificações";
             this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
+            this.radioButton2.Click += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // radioButton3
             // 
@@ -108,6 +112,7 @@ namespace aula4_Ex2
             this.radioButton6.TabStop = true;
             this.radioButton6.Text = "Primeira";
             this.radioButton6.UseVisualStyleBackColor = true;
+            this.radioButton6.CheckedChanged += new System.EventHandler(this.radioButton6_CheckedChanged);
             // 
             // button1
             // 
@@ -153,11 +158,22 @@ namespace aula4_Ex2
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Série";
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(131, 273);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(362, 23);
+            this.button2.TabIndex = 10;
+            this.button2.Text = "LIMPAR";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label1);
@@ -185,6 +201,7 @@ namespace aula4_Ex2
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.Button button2;
     }
 }
 

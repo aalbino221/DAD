@@ -1,0 +1,10 @@
+C:\Users\aluno\source\repos\ExercicioExtra\bin\Debug\ExercicioExtra.exe.config
+C:\Users\aluno\source\repos\ExercicioExtra\bin\Debug\ExercicioExtra.exe
+C:\Users\aluno\source\repos\ExercicioExtra\bin\Debug\ExercicioExtra.pdb
+C:\Users\aluno\source\repos\ExercicioExtra\obj\Debug\ExercicioExtra.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\ExercicioExtra\obj\Debug\ExercicioExtra.Form1.resources
+C:\Users\aluno\source\repos\ExercicioExtra\obj\Debug\ExercicioExtra.Properties.Resources.resources
+C:\Users\aluno\source\repos\ExercicioExtra\obj\Debug\ExercicioExtra.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\ExercicioExtra\obj\Debug\ExercicioExtra.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ExercicioExtra\obj\Debug\ExercicioExtra.exe
+C:\Users\aluno\source\repos\ExercicioExtra\obj\Debug\ExercicioExtra.pdb
